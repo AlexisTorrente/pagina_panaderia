@@ -1,0 +1,11 @@
+C:\Users\USURIO\OneDrive\Documentos\Universidad\TUP\Programacion 3\TP Integrador\tp-integrador-programacion-III\TP_Integrador_Panaderia\Negocio\bin\Debug\Negocio.dll
+C:\Users\USURIO\OneDrive\Documentos\Universidad\TUP\Programacion 3\TP Integrador\tp-integrador-programacion-III\TP_Integrador_Panaderia\Negocio\bin\Debug\Negocio.pdb
+C:\Users\USURIO\OneDrive\Documentos\Universidad\TUP\Programacion 3\TP Integrador\tp-integrador-programacion-III\TP_Integrador_Panaderia\Negocio\bin\Debug\Datos.dll
+C:\Users\USURIO\OneDrive\Documentos\Universidad\TUP\Programacion 3\TP Integrador\tp-integrador-programacion-III\TP_Integrador_Panaderia\Negocio\bin\Debug\Entidades.dll
+C:\Users\USURIO\OneDrive\Documentos\Universidad\TUP\Programacion 3\TP Integrador\tp-integrador-programacion-III\TP_Integrador_Panaderia\Negocio\bin\Debug\Datos.pdb
+C:\Users\USURIO\OneDrive\Documentos\Universidad\TUP\Programacion 3\TP Integrador\tp-integrador-programacion-III\TP_Integrador_Panaderia\Negocio\bin\Debug\Entidades.pdb
+C:\Users\USURIO\OneDrive\Documentos\Universidad\TUP\Programacion 3\TP Integrador\tp-integrador-programacion-III\TP_Integrador_Panaderia\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\USURIO\OneDrive\Documentos\Universidad\TUP\Programacion 3\TP Integrador\tp-integrador-programacion-III\TP_Integrador_Panaderia\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\USURIO\OneDrive\Documentos\Universidad\TUP\Programacion 3\TP Integrador\tp-integrador-programacion-III\TP_Integrador_Panaderia\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\USURIO\OneDrive\Documentos\Universidad\TUP\Programacion 3\TP Integrador\tp-integrador-programacion-III\TP_Integrador_Panaderia\Negocio\obj\Debug\Negocio.dll
+C:\Users\USURIO\OneDrive\Documentos\Universidad\TUP\Programacion 3\TP Integrador\tp-integrador-programacion-III\TP_Integrador_Panaderia\Negocio\obj\Debug\Negocio.pdb

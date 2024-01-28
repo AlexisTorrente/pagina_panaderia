@@ -1,0 +1,6 @@
+C:\Users\USURIO\OneDrive\Documentos\Universidad\TUP\Programacion 3\TP Integrador\tp-integrador-programacion-III\TP_Integrador_Panaderia\Entidades\bin\Debug\Entidades.dll
+C:\Users\USURIO\OneDrive\Documentos\Universidad\TUP\Programacion 3\TP Integrador\tp-integrador-programacion-III\TP_Integrador_Panaderia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\USURIO\OneDrive\Documentos\Universidad\TUP\Programacion 3\TP Integrador\tp-integrador-programacion-III\TP_Integrador_Panaderia\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\USURIO\OneDrive\Documentos\Universidad\TUP\Programacion 3\TP Integrador\tp-integrador-programacion-III\TP_Integrador_Panaderia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\USURIO\OneDrive\Documentos\Universidad\TUP\Programacion 3\TP Integrador\tp-integrador-programacion-III\TP_Integrador_Panaderia\Entidades\obj\Debug\Entidades.dll
+C:\Users\USURIO\OneDrive\Documentos\Universidad\TUP\Programacion 3\TP Integrador\tp-integrador-programacion-III\TP_Integrador_Panaderia\Entidades\obj\Debug\Entidades.pdb
